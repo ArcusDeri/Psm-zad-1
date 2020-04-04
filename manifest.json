@@ -2,27 +2,31 @@
   "short_name": "Bic",
   "name": "Bicycle",
   "description": "Exercise for mobile systems schoolar...",
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "background_color": "#3367D6",
   "display": "standalone",
   "orientation": "portrait-primary",
   "theme_color": "#3367D6",
   "icons": [
     {
-      "src": "/img/bike192.png",
-      "type": "image/png", "sizes": "192x192"
+      "src": "img/bike192.png",
+      "type": "image/png", 
+      "sizes": "192x192"
     },
     {
-      "src": "/img/bike256.png",
-      "type": "image/png", "sizes": "256x256"
+      "src": "img/bike256.png",
+      "type": "image/png", 
+      "sizes": "256x256"
     },
     {
-      "src": "/img/bike512.png",
-      "type": "image/png", "sizes": "512x512"
+      "src": "img/bike512.png",
+      "type": "image/png", 
+      "sizes": "512x512"
     },
     {
-      "src": "/img/bike144.png",
-      "type": "image/png", "sizes": "144x144"
+      "src": "img/bike144.png",
+      "type": "image/png", 
+      "sizes": "144x144"
     }
   ]
 }
