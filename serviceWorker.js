@@ -1,6 +1,7 @@
 const staticBicycle = "bicycle-site-v1"
 const assets = [
   "/index.html",
+  "/app.js",
   "/img/bike192.png",
   "/img/bike256.png",
   "/img/bike512.png",
